@@ -1,0 +1,34 @@
+/* Colour Palette */
+
+#color-palette {
+	margin-left: 50%;
+  margin-top: 8%;
+}
+
+.color {
+	height: 70px;
+	width: 70px;
+  border-radius: 50%;
+	margin-bottom: 20px;
+  margin-left: 20px;
+}
+
+#red {
+	background-color: $red-orange;
+}
+
+#yellow {
+	background-color: $golden-fizz;
+}
+
+#blue {
+	background-color: $gothic;
+}
+
+#white {
+	background-color: white;
+}
+
+#black {
+	background-color: black;
+}
